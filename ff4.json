@@ -3,24 +3,24 @@
         //Ads
        "Enable_Applovin":true,
        "Enable_On_back_Ads":false,
-       "Interstitial_Applovin_ButtonBack":"2fb3833yurd201",
-       "Interstitial_Applovin":"2ftyuc560d201",
-       "Mrec_Applovin":"ac8b3ftrt0b3d",
-       "Banner_Applovin":"d063c02rt87ff6",
+       "Interstitial_Applovin_ButtonBack":"2fb38387urd201",
+       "Interstitial_Applovin":"2ftyu57201",
+       "Mrec_Applovin":"ac8b75t0b3d",
+       "Banner_Applovin":"d06357rt87ff6",
        
        
        //image cpa 
        
-       "Url_Image_Cpa":"https://www.google.com/",
+       "Url_Image_Cpa":"https://",
        "Visibility_image_cpa":false,
-       "Image_View_cpa":"https://drive.google.com/uc?export=downlo",
+       "Image_View_cpa":"https://",
        
        
        //Popup 
         "Visibility_popup":false,
         "Title_View_popup":"Free",
-        "Url_button_popup":"https://coinmar.com/",
-        "Image_View_popup":"https://drive.google.com/uc?export=download&i_bi2"
+        "Url_button_popup":"https://",
+        "Image_View_popup":"https://"
        
        
        
@@ -28,26 +28,26 @@
       , "items":[
           //tip
             {
-     "Title":"1 - What Is Documents By Readdle"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/dcmnts.jpg"
+     "Title":"1 - What Is FFH4X"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
      ,"Description" :""
       }
         //tip
     ,{
      "Title":"2 - How To Get it"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/dcmnts.jpg"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
      ,"Description" :""
       }
         //tip
        ,{
      "Title":"3 - How To Use It?"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/dcmnts.jpg"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
      ,"Description" :""
       }
         //tip
        ,{
      "Title":"4 - Tips"
-     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/dcmnts.jpg"
+     , "Image_Url": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/ffhx.jpg"
      ,"Description" :""
       }
 
