@@ -2,11 +2,11 @@
     "Guide_Andromo":{
         //Ads
        "Enable_Applovin":true,
-       "Enable_On_back_Ads":false,
-       "Interstitial_Applovin_ButtonBack":"2fb38387urd201",
-       "Interstitial_Applovin":"2ftyu57201",
+       "Enable_On_back_Ads":true,
+       "Interstitial_Applovin_ButtonBack":"cd7a3739aebe55cf",
+       "Interstitial_Applovin":"cd7a3739aebe55cf",
        "Mrec_Applovin":"ac8b75t0b3d",
-       "Banner_Applovin":"d06357rt87ff6",
+       "Banner_Applovin":"1736d05c47d2e6ef",
        
        
        //image cpa 
