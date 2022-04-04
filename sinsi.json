@@ -7,10 +7,10 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "55bceb6c4657952",
-	"APPLOVIN_INTERSTITIAL_ID": "e5b364c935bbe5",
+	"APPLOVIN_BANNER_ID": "c2d3fec61a199d52",
+	"APPLOVIN_INTERSTITIAL_ID": "09ff22e826f559ce",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b346cc935bbe5",
-	"ENABLE_ONBACK_ADS":true,
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -54,7 +54,7 @@
 		{
 			"title": "Sinsay Shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/sinsii.png",
-			"url": "https://"
+			"url": "http://alturl.com/mzpez"
 		}
 
 	]
