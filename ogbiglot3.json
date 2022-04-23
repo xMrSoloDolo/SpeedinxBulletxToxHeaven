@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER_ID": "310ba6ae44cac0d5",
 	"APPLOVIN_INTERSTITIAL_ID": "2f15c4c4a9613a57",
 	"APPLOVIN_INTERSTITIAL_ONBACK":"e5b346cc935bbe5",
-	"ENABLE_ONBACK_ADS":false,
+	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -29,8 +29,8 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
