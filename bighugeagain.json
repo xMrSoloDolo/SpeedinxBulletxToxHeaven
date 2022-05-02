@@ -8,8 +8,8 @@
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
 	"APPLOVIN_BANNER_ID": "1dff9eead83acd22",
-	"APPLOVIN_INTERSTITIAL_ID": "1f4dbe27c60ee30c",
-	"APPLOVIN_INTERSTITIAL_ONBACK":"1f4dbe27c60ee30c",
+	"APPLOVIN_INTERSTITIAL_ID": "c26c05a89612704d",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"c26c05a89612704d",
 	"ENABLE_ONBACK_ADS":true,
 
 	"UNITY_BANNER": "Android_Banner",
@@ -29,8 +29,8 @@
 	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"have you ever bought from big lots online Before?",
